@@ -1,4 +1,5 @@
-Unity-Insider-Jam
+Unity Insider Jam
 =================
 
-Unity Insider People Jamming together
+Unity Insider People Jamming together.
+Jams are livestreamed.
